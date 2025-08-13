@@ -171,25 +171,6 @@ Based on user feedback and technological advancement, we're planning:
 
 ---
 
-## 🔧 Technical Architecture
-
-```
-RUET Connect Architecture
-├── Frontend (Flutter/Dart)
-│   ├── User Interface (Material Design 3)
-│   ├── State Management
-│   └── Navigation System
-├── Backend (Firebase)
-│   ├── Authentication Service
-│   ├── Firestore Database
-│   └── Real-time Synchronization
-└── Admin Panel
-    ├── Content Management
-    └── User Role Management
-```
-
----
-
 
 ## 🤝 Academic Context
 
@@ -207,4 +188,4 @@ The project showcases how modern mobile development technologies can be leverage
 
 ---
 
-*Built with ❤️ for the RUET community*
+## Built for my University RUET community*
