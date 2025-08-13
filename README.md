@@ -135,12 +135,6 @@
 
 ## ✨ **What Sets RUET Connect Apart**
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF" alt="Contribution Stats">
-
-</div>
-
 ### 🔐 **Intelligent Role-Based Architecture**
 
 <table>
@@ -254,12 +248,6 @@ graph LR
 
 ## 🎯 **Project Impact**
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="Achievements">
-
-</div>
-
 ### **Key Accomplishments**
 - 🎯 Centralized campus information architecture
 - 🔒 Robust role-based access control
@@ -295,7 +283,8 @@ graph LR
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Developed%20for%20Rajshahi%20University%20of%20Engineering%20%26%20Technology&fontSize=24" width="100%">
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/yourusername/ruet-connect)
-[![For RUET](https://img.shields.io/badge/Built%20for-RUET%20Community-blue?style=for-the-badge&logo=university&logoColor=white)](https://ruet.ac.bd)
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Flutter-red?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Built%20for-RUET%20Community-blue?style=for-the-badge&logo=university&logoColor=white">
+<img src="https://img.shields.io/badge/Developer-Abdullah%20Hal%20Kafi%20Nafees-green?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
