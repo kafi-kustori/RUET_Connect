@@ -14,6 +14,19 @@
 <img width="1335" height="762" alt="Untitled Diagram final  drawio" src="https://github.com/user-attachments/assets/57bf12f1-6ad0-4599-add2-a47f67822f75" />
 
 
+# App Preview :
+
+<img width="152" height="337" alt="image" src="https://github.com/user-attachments/assets/7043384c-1d0a-4162-917d-7a4256a1e39d" />
+
+<img width="153" height="340" alt="image" src="https://github.com/user-attachments/assets/39176fb7-3711-4700-b16d-43f29e97a2b0" />
+
+<img width="239" height="531" alt="image" src="https://github.com/user-attachments/assets/52da0d1f-c36d-4e0e-a6d7-f135e6f46122" />
+
+<img width="163" height="362" alt="image" src="https://github.com/user-attachments/assets/95b76f34-c47f-42bd-8dd5-3cf949ec3722" />
+
+
+
+
 
 
 
