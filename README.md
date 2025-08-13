@@ -9,6 +9,17 @@
 **Supervisor:** Md. Sozib Hossain, Lecturer, CSE Department
 
 ---
+Project Structure :
+
+<img width="1335" height="762" alt="Untitled Diagram final  drawio" src="https://github.com/user-attachments/assets/57bf12f1-6ad0-4599-add2-a47f67822f75" />
+
+
+
+
+
+
+
+
 
 ## 🎯 Project Vision
 
