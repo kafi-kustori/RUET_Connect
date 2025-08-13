@@ -1,13 +1,21 @@
-# 🎓 RUET Connect - Smart Event Management System
+🎓 RUET Connect - Intelligent Campus Management Platform
+<div align="center">
 
-> *"Heaven's light is our guide"*  
-> **Rajshahi University of Engineering & Technology (RUET)**  
-> **Department of Computer Science & Engineering**
+"Heaven's light is our guide"
 
-**Developed by:** Abdullah Hal Kafi Nafees (Roll: 2203014)  
-**Course:** Software Development Project I (CSE-2100)  
-**Supervisor:** Md. Sozib Hossain, Lecturer, CSE Department
+Rajshahi University of Engineering & Technology (RUET)
+Department of Computer Science & Engineering
 
+👨‍💻 Project Information
+Developer: Abdullah Hal Kafi Nafees (Student ID: 2203014)
+Academic Course: Software Development Project I (CSE-2100)
+Academic Supervision: Md. Sozib Hossain, Lecturer, CSE Department, RUET
+📧 Professional Contact
+Email: kafikustori@gmail.com
+LinkedIn: Abdullah Hal Kafi Nafees
+WhatsApp Contact:
+<img src="https://github.com/user-attachments/assets/7919e897-d8ad-42ce-957c-58b0b1d47dfc" width="200" alt="WhatsApp Contact QR Code"/>
+</div>
 ---
 ## 🏗️ Project Structure
 
