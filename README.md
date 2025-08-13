@@ -9,46 +9,51 @@
 **Supervisor:** Md. Sozib Hossain, Lecturer, CSE Department
 
 ---
-## Project Structure :
-
-<img width="1335" height="762" alt="Untitled Diagram final  drawio" src="https://github.com/user-attachments/assets/57bf12f1-6ad0-4599-add2-a47f67822f75" />
-
-# 📱 App Preview
+## 🏗️ Project Structure
 
 <div align="center">
 
-## 🚀 Key Features in Action
+### 🎯 System Architecture
+
+<img src="https://github.com/user-attachments/assets/57bf12f1-6ad0-4599-add2-a47f67822f75" alt="Project Architecture" width="800"/>
+
+> **🚀 Built with modern architecture principles**  
+> *Scalable • Maintainable • Efficient*
+
+</div>
+
+---
+
+## 🖥️ App Preview
+
+<div align="center">
+
+### ✨ User Interface Showcase
 
 <table>
 <tr>
-<td width="25%" align="center">
-<img src="https://github.com/user-attachments/assets/7043384c-1d0a-4162-917d-7a4256a1e39d" width="100%"/>
-<br><b>🏠 Home Dashboard</b>
-<br><i>Quick overview & navigation</i>
+<td width="50%" align="center">
+  <img src="https://github.com/user-attachments/assets/c5479d36-6077-45f7-9bb8-18f6757e9021" width="100%" alt="Dashboard"/>
+  <br><b>🏠 Dashboard</b><br><i>Main control center</i>
 </td>
-<td width="25%" align="center">
-<img src="https://github.com/user-attachments/assets/39176fb7-3711-4700-b16d-43f29e97a2b0" width="100%"/>
-<br><b>👤 User Profile</b>
-<br><i>Personal settings & info</i>
+<td width="50%" align="center">
+  <img src="https://github.com/user-attachments/assets/223585f3-1dd3-4e72-975e-e8b6fd124214" width="100%" alt="Analytics"/>
+  <br><b>📈 Analytics</b><br><i>Data insights & metrics</i>
 </td>
-<td width="25%" align="center">
-<img src="https://github.com/user-attachments/assets/52da0d1f-c36d-4e0e-a6d7-f135e6f46122" width="100%"/>
-<br><b>⚙️ Configuration</b>
-<br><i>Customize your experience</i>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github.com/user-attachments/assets/13193bcd-da32-415a-978c-2a4d56e4ea2c" width="100%" alt="Settings"/>
+  <br><b>⚙️ Settings</b><br><i>Customization options</i>
 </td>
-<td width="25%" align="center">
-<img src="https://github.com/user-attachments/assets/95b76f34-c47f-42bd-8dd5-3cf949ec3722" width="100%"/>
-<br><b>📋 Detailed View</b>
-<br><i>In-depth information</i>
+<td width="50%" align="center">
+  <img src="https://github.com/user-attachments/assets/f010e8cd-a794-4e36-b718-93daeaa1f7c2" width="100%" alt="Reports"/>
+  <br><b>📊 Reports</b><br><i>Comprehensive analysis</i>
 </td>
 </tr>
 </table>
 
 </div>
-
-
-
-
 
 
 
