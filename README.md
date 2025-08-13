@@ -33,31 +33,27 @@
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github.com/user-attachments/assets/c5479d36-6077-45f7-9bb8-18f6757e9021" width="100%" alt="Dashboard"/>
-  <br><b>🏠 Dashboard</b><br><i>Main control center</i>
+  <img src="https://github.com/user-attachments/assets/c5479d36-6077-45f7-9bb8-18f6757e9021" width="100%" alt="Authentication"/>
+  <br><b>🏠 Home & Authentication</b><br><i>Home page, Login & Register</i>
 </td>
 <td width="50%" align="center">
-  <img src="https://github.com/user-attachments/assets/223585f3-1dd3-4e72-975e-e8b6fd124214" width="100%" alt="Analytics"/>
-  <br><b>📈 Analytics</b><br><i>Data insights & metrics</i>
+  <img src="https://github.com/user-attachments/assets/223585f3-1dd3-4e72-975e-e8b6fd124214" width="100%" alt="Dashboard"/>
+  <br><b>📊 Dashboard & Admin Panel</b><br><i>Comprehensive admin interface</i>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github.com/user-attachments/assets/13193bcd-da32-415a-978c-2a4d56e4ea2c" width="100%" alt="Settings"/>
-  <br><b>⚙️ Settings</b><br><i>Customization options</i>
+  <img src="https://github.com/user-attachments/assets/13193bcd-da32-415a-978c-2a4d56e4ea2c" width="100%" alt="Admin Management"/>
+  <br><b>⚙️ Admin Content Management</b><br><i>Add Events, Notices, Workshops & Clubs</i>
 </td>
 <td width="50%" align="center">
-  <img src="https://github.com/user-attachments/assets/f010e8cd-a794-4e36-b718-93daeaa1f7c2" width="100%" alt="Reports"/>
-  <br><b>📊 Reports</b><br><i>Comprehensive analysis</i>
+  <img src="https://github.com/user-attachments/assets/f010e8cd-a794-4e36-b718-93daeaa1f7c2" width="100%" alt="User Interface"/>
+  <br><b>👥 User Experience Hub</b><br><i>Browse content with upvote, search & sorting</i>
 </td>
 </tr>
 </table>
 
 </div>
-
-
-
-
 
 
 ## 🎯 Project Vision
