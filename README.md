@@ -13,7 +13,10 @@
 **🏛️ Rajshahi University of Engineering & Technology (RUET)**  
 **💻 Department of Computer Science & Engineering**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ruet-connect&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RUET Connect Repo Stats">
+<img src="https://img.shields.io/badge/🎓%20RUET%20Connect-Intelligent%20Campus%20Platform-FF6B35?style=for-the-badge&logo=flutter&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge">
 
 ---
 
