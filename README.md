@@ -35,66 +35,69 @@ Students at RUET were constantly missing out on opportunities because:
 ### Our Solution
 A beautiful, intuitive Flutter mobile app that brings everything together in one place - making campus life more connected and engaging.
 
+---
 
-✨ Why RUET Connect Stands Out
-🔐 Smart Role Management
-Students: Browse, search, upvote, and engage with campus content
+## ✨ Why RUET Connect Stands Out
 
-Admins: Full content control with an intuitive admin panel
+### 🔐 **Smart Role Management**
 
-📱 Core Features
-📢 Notices: 5 categories, clickable links, real-time updates
+* **Students**: Browse, search, upvote, and engage with campus content
+* **Admins**: Full content control with an intuitive admin panel
 
-🎉 Events: Details, upvotes, smart search, direct registration
+### 📱 **Core Features**
 
-🛠️ Workshops: Info, registration links, community engagement
+* **📢 Notices**: 5 categories, clickable links, real-time updates
+* **🎉 Events**: Details, upvotes, smart search, direct registration
+* **🛠️ Workshops**: Info, registration links, community engagement
+* **🏛️ Clubs**: Discover, search, and sort by popularity
+* **⚡ Admin Panel**: Add/edit/delete content with instant updates
 
-🏛️ Clubs: Discover, search, and sort by popularity
+---
 
-⚡ Admin Panel: Add/edit/delete content with instant updates
+## 🛠️ Built With
 
-🛠️ Built With
-Frontend: Flutter, Dart, Material Design 3
+* **Frontend**: Flutter, Dart, Material Design 3
+* **Backend**: Firebase (Firestore, Auth, Cloud Storage)
+* **IDE**: Android Studio
 
-Backend: Firebase (Firestore, Auth, Cloud Storage)
+---
 
-IDE: Android Studio
+## 📊 Why RUET Connect Wins
 
-📊 Why RUET Connect Wins
 Other platforms like Eventbrite and Cvent:
 ❌ Expensive, over-engineered, commercial-focused, complex
 ✅ RUET Connect: Free, academic-focused, simple, university-tailored
 
-🎨 User Experience
-Students: Quick registration → Personalized dashboard → Discover & interact → Real-time updates
-Admins: Secure access → Manage content → Instant publishing → Engagement insights
+---
 
-📱 App Sections
-🏠 Dashboard: Profile & activity overview
+## 🎨 User Experience
 
-📋 Notices: Categorized updates with links
+**Students:** Quick registration → Personalized dashboard → Discover & interact → Real-time updates
+**Admins:** Secure access → Manage content → Instant publishing → Engagement insights
 
-🎊 Events: Discover, upvote, register
+---
 
-💡 Workshops: Info & registration
+## 📱 App Sections
 
-🤝 Clubs: Explore and connect
+* **🏠 Dashboard**: Profile & activity overview
+* **📋 Notices**: Categorized updates with links
+* **🎊 Events**: Discover, upvote, register
+* **💡 Workshops**: Info & registration
+* **🤝 Clubs**: Explore and connect
+* **⚙️ Admin**: Full content control
 
-⚙️ Admin: Full content control
+---
 
-🚀 Roadmap
-Push notifications
+## 🚀 Roadmap
 
-Feedback system
+* Push notifications
+* Feedback system
+* Bookmarking favorites
+* Advanced permissions
+* UI/UX improvements
+* Analytics dashboard
 
-Bookmarking favorites
-
-Advanced permissions
-
-UI/UX improvements
-
-Analytics dashboard
-
+---
 
 ## 🎯 Impact & Results
 
