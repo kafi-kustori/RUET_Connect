@@ -1,176 +1,298 @@
-🎓 RUET Connect - Intelligent Campus Management Platform
-<div align="center">
-
-"Heaven's light is our guide"
-
-Rajshahi University of Engineering & Technology (RUET)
-Department of Computer Science & Engineering
-
-👨‍💻 Project Information
-Developer: Abdullah Hal Kafi Nafees (Student ID: 2203014)
-Academic Course: Software Development Project I (CSE-2100)
-Academic Supervision: Md. Sozib Hossain, Lecturer, CSE Department, RUET
-📧 Professional Contact
-Email: kafikustori@gmail.com
-LinkedIn: Abdullah Hal Kafi Nafees
-WhatsApp Contact:
-<img src="https://github.com/user-attachments/assets/7919e897-d8ad-42ce-957c-58b0b1d47dfc" width="200" alt="WhatsApp Contact QR Code"/>
-</div>
----
-## 🏗️ Project Structure
+# 🎓 RUET Connect - Intelligent Campus Management Platform
 
 <div align="center">
 
-### 🎯 System Architecture
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=RUET+Connect;Smart+Campus+Management;Flutter+%2B+Firebase;Built+for+RUET+Community)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/57bf12f1-6ad0-4599-add2-a47f67822f75" alt="Project Architecture" width="800"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
 
-> **🚀 Built with modern architecture principles**  
-> *Scalable • Maintainable • Efficient*
+> *"Heaven's light is our guide"*  
 
-</div>
+**🏛️ Rajshahi University of Engineering & Technology (RUET)**  
+**💻 Department of Computer Science & Engineering**
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ruet-connect&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RUET Connect Repo Stats">
 
 ---
 
-## 🖥️ App Preview
-
-<div align="center">
-
-### ✨ User Interface Showcase
+### 👨‍💻 **Developer Profile**
 
 <table>
 <tr>
-<td width="50%" align="center">
-  <img src="https://github.com/user-attachments/assets/c5479d36-6077-45f7-9bb8-18f6757e9021" width="100%" alt="Authentication"/>
-  <br><b>🏠 Home & Authentication</b><br><i>Home page, Login & Register</i>
+<td align="center">
+<img src="https://img.shields.io/badge/Developer-Abdullah%20Hal%20Kafi%20Nafees-blue?style=for-the-badge&logo=github&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Student%20ID-2203014-orange?style=flat-square">
+<br>
+<img src="https://img.shields.io/badge/Course-CSE--2100-green?style=flat-square">
 </td>
-<td width="50%" align="center">
-  <img src="https://github.com/user-attachments/assets/223585f3-1dd3-4e72-975e-e8b6fd124214" width="100%" alt="Dashboard"/>
-  <br><b>📊 Dashboard & Admin Panel</b><br><i>Comprehensive admin interface</i>
+</tr>
+</table>
+
+### 📧 **Connect With Me**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-kafikustori@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kafikustori@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Hal%20Kafi%20Nafees-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-hal-kafi-nafees-0948b220a)
+
+**📱 WhatsApp Contact**  
+<img src="https://github.com/user-attachments/assets/7919e897-d8ad-42ce-957c-58b0b1d47dfc" width="150" alt="WhatsApp QR Code">
+
+</div>
+
+</div>
+
+<br>
+
+## 🏗️ **Project Architecture**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=System%20Architecture&fontSize=30" width="100%">
+
+<img src="https://github.com/user-attachments/assets/57bf12f1-6ad0-4599-add2-a47f67822f75" alt="Project Architecture" width="90%">
+
+<img src="https://img.shields.io/badge/Architecture-Modern-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Scalability-High-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Maintainability-Excellent-orange?style=for-the-badge">
+
+</div>
+
+<br>
+
+## 🖼️ **Application Showcase**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=header&text=User%20Interface&fontSize=30" width="100%">
+
+<table style="border: none;">
+<tr>
+<td width="50%" align="center" style="border: none; padding: 20px;">
+  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    <img src="https://github.com/user-attachments/assets/c5479d36-6077-45f7-9bb8-18f6757e9021" width="100%" alt="Authentication"/>
+  </div>
+  <br>
+  <img src="https://img.shields.io/badge/🏠%20Home%20&%20Auth-Home%20page,%20Login%20&%20Register-4CAF50?style=for-the-badge">
+</td>
+<td width="50%" align="center" style="border: none; padding: 20px;">
+  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    <img src="https://github.com/user-attachments/assets/223585f3-1dd3-4e72-975e-e8b6fd124214" width="100%" alt="Dashboard"/>
+  </div>
+  <br>
+  <img src="https://img.shields.io/badge/📊%20Dashboard-Comprehensive%20admin%20interface-2196F3?style=for-the-badge">
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-  <img src="https://github.com/user-attachments/assets/13193bcd-da32-415a-978c-2a4d56e4ea2c" width="100%" alt="Admin Management"/>
-  <br><b>⚙️ Admin Content Management</b><br><i>Add Events, Notices, Workshops & Clubs</i>
+<td width="50%" align="center" style="border: none; padding: 20px;">
+  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    <img src="https://github.com/user-attachments/assets/13193bcd-da32-415a-978c-2a4d56e4ea2c" width="100%" alt="Admin Management"/>
+  </div>
+  <br>
+  <img src="https://img.shields.io/badge/⚙️%20Admin%20Panel-Add%20Events,%20Notices,%20Workshops-FF9800?style=for-the-badge">
 </td>
-<td width="50%" align="center">
-  <img src="https://github.com/user-attachments/assets/f010e8cd-a794-4e36-b718-93daeaa1f7c2" width="100%" alt="User Interface"/>
-  <br><b>👥 User Experience Hub</b><br><i>Browse content with upvote, search & sorting</i>
+<td width="50%" align="center" style="border: none; padding: 20px;">
+  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    <img src="https://github.com/user-attachments/assets/f010e8cd-a794-4e36-b718-93daeaa1f7c2" width="100%" alt="User Interface"/>
+  </div>
+  <br>
+  <img src="https://img.shields.io/badge/👥%20User%20Hub-Browse,%20upvote,%20search%20&%20sort-9C27B0?style=for-the-badge">
 </td>
 </tr>
 </table>
 
 </div>
 
+<br>
 
-## 🎯 Project Vision
+## 🚀 **Project Vision**
 
-Imagine never missing another campus event, workshop, or important notice again. **RUET Connect** transforms how students experience university life by creating a centralized digital hub for all campus activities.
+<div align="center">
 
-### The Problem We Solved
-Students at RUET were constantly missing out on opportunities because:
-- Important notices were scattered across multiple platforms
-- Event information was poorly communicated
-- No single place to discover workshops and club activities
-- Manual, outdated communication methods created gaps
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=Never+miss+another+campus+event;Transform+university+experience;Centralized+digital+hub;Making+campus+life+connected" alt="Vision Animation">
 
-### Our Solution
-A beautiful, intuitive Flutter mobile app that brings everything together in one place - making campus life more connected and engaging.
+</div>
 
----
+### 🎯 **The Problem We Solved**
+```diff
+- Important notices scattered across multiple platforms
+- Event information poorly communicated  
+- No single place for workshops and club activities
+- Manual, outdated communication methods
++ Centralized digital hub for all campus activities
++ Real-time updates and notifications
++ Interactive community features
++ Modern, intuitive user experience
+```
 
-## ✨ What Sets RUET Connect Apart
+<br>
+
+## ✨ **What Sets RUET Connect Apart**
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF" alt="Contribution Stats">
+
+</div>
 
 ### 🔐 **Intelligent Role-Based Architecture**
-* **Students**: Comprehensive browsing, advanced search capabilities, community-driven upvoting, and seamless content engagement
-* **Administrators**: Complete content lifecycle management through an intuitive administrative interface
 
-### 📱 **Comprehensive Feature Suite**
-* **📢 Notice System**: Five-category classification, integrated hyperlinks, and real-time content delivery
-* **🎉 Event Management**: Detailed event information, community voting system, intelligent search functionality, and direct registration integration
-* **🛠️ Workshop Portal**: Complete workshop information, registration link management, and community engagement tools
-* **🏛️ Club Directory**: Comprehensive club discovery with advanced search and popularity-based sorting
-* **⚡ Administrative Dashboard**: Full CRUD operations with instant content synchronization
+<table>
+<tr>
+<td width="50%">
 
----
+**👨‍🎓 Students**
+- ✅ Comprehensive browsing
+- ✅ Advanced search capabilities  
+- ✅ Community-driven upvoting
+- ✅ Seamless content engagement
 
-## 🛠️ Technology Stack
+</td>
+<td width="50%">
 
-* **Frontend Architecture**: Flutter framework with Dart programming language, implementing Material Design 3 principles
-* **Backend Infrastructure**: Firebase ecosystem including Firestore database, Authentication services, and Cloud Storage
-* **Development Environment**: Android Studio IDE with comprehensive debugging and testing tools
+**👨‍💼 Administrators**  
+- ✅ Complete content lifecycle management
+- ✅ Intuitive administrative interface
+- ✅ Real-time content publishing
+- ✅ Engagement analytics
 
----
+</td>
+</tr>
+</table>
 
-## 📊 Competitive Analysis
+### 📱 **Feature Highlights**
 
-Traditional platforms such as Eventbrite and Cvent present several limitations:
-❌ **Limitations**: High cost barriers, over-engineered complexity, commercial-focused design, steep learning curve
+<div align="center">
 
-✅ **RUET Connect Advantages**: Cost-free solution, academic-focused design, streamlined user experience, university-specific customization
+| 📢 **Notice System** | 🎉 **Event Management** | 🛠️ **Workshop Portal** | 🏛️ **Club Directory** |
+|:---:|:---:|:---:|:---:|
+| 5-category classification | Community voting system | Complete information portal | Advanced search & sorting |
+| Integrated hyperlinks | Direct registration | Registration link management | Popularity-based ranking |
+| Real-time delivery | Intelligent search | Community engagement | Discovery platform |
 
----
+</div>
 
-## 🎨 User Journey & Experience
+<br>
 
-**Student Workflow:** Account registration → Personalized dashboard access → Content discovery and interaction → Real-time notification system
+## 🛠️ **Technology Stack**
 
-**Administrator Workflow:** Secure authentication → Comprehensive content management → Instant publishing capabilities → Engagement analytics and insights
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,github,figma" alt="Tech Stack">
 
-## 📱 Application Architecture
+<br><br>
 
-* **🏠 Dashboard**: Comprehensive profile management and activity overview
-* **📋 Notice Board**: Categorized information system with integrated external links
-* **🎊 Event Hub**: Discovery platform with community voting and registration system
-* **💡 Workshop Center**: Information portal with integrated registration management
-* **🤝 Club Network**: Comprehensive club exploration and community connection platform
-* **⚙️ Administrative Panel**: Complete content lifecycle management system
+| **Frontend** | **Backend** | **Development** |
+|:---:|:---:|:---:|
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat&logo=firebase&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![Material Design 3](https://img.shields.io/badge/Material%20Design%203-757575?style=flat&logo=materialdesign&logoColor=white) | ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat&logo=googlecloud&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
----
+</div>
 
-## 🚀 Future Development Roadmap
+<br>
 
-* Push notification infrastructure
-* Comprehensive feedback and rating system
-* Advanced bookmarking and favorites functionality
-* Granular permission management system
-* Enhanced user interface and experience optimizations
-* Comprehensive analytics and reporting dashboard
+## 📊 **RUET Connect vs Traditional Platforms**
 
----
+<div align="center">
 
-## 🎯 Project Impact & Measurable Results
+| Feature | Traditional Platforms | RUET Connect |
+|:---:|:---:|:---:|
+| **Cost** | ❌ Expensive | ✅ Free |
+| **Design** | ❌ Commercial-focused | ✅ Academic-focused |
+| **Complexity** | ❌ Over-engineered | ✅ Simple & Intuitive |
+| **Customization** | ❌ Generic | ✅ University-tailored |
+| **Learning Curve** | ❌ Steep | ✅ User-friendly |
 
-**RUET Connect** successfully addresses the communication gap between students and campus activities, fostering a more engaged and informed university ecosystem. The application demonstrates how strategic technology implementation can effectively resolve real-world challenges in educational environments.
+</div>
 
-### **Key Accomplishments:**
-- Established centralized information architecture for all campus activities
-- Implemented robust role-based access control for enhanced security and functionality
-- Developed engaging user experience with interactive community features
-- Built scalable, maintainable system architecture using contemporary technologies
-- Provided administrators with powerful yet intuitive content management capabilities
+<br>
 
----
+## 🎨 **User Journey**
 
-## 🤝 Academic Development Context
+<div align="center">
 
-This project was developed as part of **Software Development Project I (CSE-2100)** within RUET's Computer Science & Engineering Department, demonstrating practical application of software engineering methodologies in addressing real university infrastructure challenges.
+```mermaid
+graph LR
+    A[🚪 Registration] --> B[🏠 Dashboard]
+    B --> C[🔍 Discover]
+    C --> D[💬 Interact]
+    D --> E[🔔 Updates]
+    
+    F[🔐 Admin Login] --> G[📊 Admin Panel]
+    G --> H[📝 Create Content]
+    H --> I[📤 Publish]
+    I --> J[📈 Analytics]
+```
 
-**Academic Supervision:** Md. Sozib Hossain, Lecturer, Department of Computer Science & Engineering, RUET
+</div>
 
----
+<br>
 
-## 💡 Strategic Insights & Learning Outcomes
+## 🚀 **Roadmap**
 
-RUET Connect represents a comprehensive solution that addresses the specific communication needs of university communities. Through emphasis on simplicity, accessibility, and user engagement, we have developed a platform that effectively serves its target demographic.
+<div align="center">
 
-The project demonstrates how modern mobile development frameworks can be strategically applied to resolve traditional communication barriers in academic institutions, establishing a foundation for more connected and engaged campus communities.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=Future%20Features&fontSize=30" width="100%">
 
----
+</div>
 
-## 🏛️ Built for the RUET Community
+- [ ] 🔔 Push notification infrastructure
+- [ ] 📝 Comprehensive feedback system  
+- [ ] ⭐ Advanced bookmarking functionality
+- [ ] 🔒 Granular permission management
+- [ ] 🎨 Enhanced UI/UX optimizations
+- [ ] 📊 Analytics dashboard
 
-*Developed with dedication for Rajshahi University of Engineering & Technology*
+<br>
+
+## 🎯 **Project Impact**
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="Achievements">
+
+</div>
+
+### **Key Accomplishments**
+- 🎯 Centralized campus information architecture
+- 🔒 Robust role-based access control
+- 💫 Interactive community features
+- 🏗️ Scalable system architecture
+- ⚡ Powerful content management tools
+
+<br>
+
+## 🤝 **Academic Context**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Course-Software%20Development%20Project%20I-blue?style=for-the-badge&logo=academicapplication&logoColor=white">
+<img src="https://img.shields.io/badge/Code-CSE--2100-green?style=for-the-badge&logo=code&logoColor=white">
+<img src="https://img.shields.io/badge/Department-Computer%20Science%20&%20Engineering-orange?style=for-the-badge&logo=university&logoColor=white">
+
+**👨‍🏫 Academic Supervision:** Md. Sozib Hossain, Lecturer, CSE Department, RUET
+
+</div>
+
+<br>
+
+## 💡 **Learning Outcomes**
+
+> RUET Connect demonstrates how modern mobile development frameworks can strategically resolve traditional communication barriers in academic institutions, establishing a foundation for more connected campus communities.
+
+<br>
+
+## 🏛️ **Built with ❤️ for RUET**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Developed%20for%20Rajshahi%20University%20of%20Engineering%20%26%20Technology&fontSize=24" width="100%">
+
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/yourusername/ruet-connect)
+[![For RUET](https://img.shields.io/badge/Built%20for-RUET%20Community-blue?style=for-the-badge&logo=university&logoColor=white)](https://ruet.ac.bd)
+
+</div>
